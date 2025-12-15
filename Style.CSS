@@ -1,9 +1,24 @@
 .Container {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+}
+
+.Container2 {
+    display: flex;
+    flex-direction: column;  
 }
 
 img {
     width: 180px;
     height: 180px;
+}
+
+.Ingridienser {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+body {
+    text-align: center;
 }
