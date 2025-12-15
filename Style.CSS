@@ -1,0 +1,9 @@
+.Container {
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    width: 180px;
+    height: 180px;
+}
